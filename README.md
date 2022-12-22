@@ -1,9 +1,4 @@
 # E-Voting-System
-Basic Instructions
-------------------
-1. The folder E-voting System the Project Folder for the Java Web Application.
-2. The file naming kucchbhi.sql is sql database file to import.
-3. The file naming Read Me.txt is the basic instrucions file.
 
 Project Instructions
 -----------------
